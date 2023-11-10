@@ -45,7 +45,7 @@ Metrics: Confusion Matrices of the three models.
 ![image](https://github.com/SubhanshuWalia/spam-detection/assets/150337661/bd21b04e-e783-455a-a6ab-d1221b425e41)
 
 
-
+--Contributors: divanshu-walia
 
 
 
